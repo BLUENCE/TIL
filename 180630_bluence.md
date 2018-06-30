@@ -16,12 +16,10 @@ Link: [Google][googlelink]
 
 # 3. 글자 강조하기 
 
-*강조하려면*을씁니다*
+* 안녕하세요 *
 
 # 4. 이미지 
 
-![Alt text](/path/to/img.jpg)
-
-
-<img width="" height=""></img>
+<img width="300" height="300">(/path/to/img.jpg)
+</img>
 
